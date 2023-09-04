@@ -1,9 +1,10 @@
 # Backend2daPreEntr_JaimeValencia
 
-##Capturas de pantalla de Postman con lectura/escritura de los datos
+#Capturas de pantalla de Postman con lectura/escritura de los datos
 
-
+_Agregar producto_
 <a href="https://ibb.co/26n22D5"><img src="https://i.ibb.co/sPmSS0t/Captura-de-pantalla-2023-09-03-a-la-s-20-59-44.png" alt="Captura-de-pantalla-2023-09-03-a-la-s-20-59-44" border="0"></a>
+
 <a href="https://ibb.co/5WwRGsP"><img src="https://i.ibb.co/RpdDYQq/Captura-de-pantalla-2023-09-03-a-la-s-21-00-01.png" alt="Captura-de-pantalla-2023-09-03-a-la-s-21-00-01" border="0"></a>
 <a href="https://ibb.co/m8RNGYH"><img src="https://i.ibb.co/ySN4XM8/Captura-de-pantalla-2023-09-03-a-la-s-21-00-20.png" alt="Captura-de-pantalla-2023-09-03-a-la-s-21-00-20" border="0"></a>
 <a href="https://ibb.co/5hj9MYG"><img src="https://i.ibb.co/1GXnvs7/Captura-de-pantalla-2023-09-03-a-la-s-21-01-50.png" alt="Captura-de-pantalla-2023-09-03-a-la-s-21-01-50" border="0"></a>
