@@ -1,4 +1,4 @@
-# Backend2daPreEntr_JaimeValencia
+# Backend Segunda PreEntrega
 
 ## Capturas de pantalla de Postman con lectura/escritura de los datos
 
